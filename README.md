@@ -5,4 +5,9 @@ I think mobile-phone is the future, so, let's go to aproach to this and take adv
 I wanted create this app 'cause right now im on university, and when i have exams, take picture and upload to univerisity server it take me a lot of lost time like 10 minutes or 15,
 and if i have something which let me take picture and instantly upload to a close pc and upload to fast to university forum, it would be the best thing in the word.
 
+The context of this app:
+  Create a mobile-app which can take picture and upload instantly to server in firebase-cloud, before this, a client on pc would be installed. 
+    The communication with pc-app and mobile-app being to fast easily can reach minus than 1 second.
+    and once photo uploaded u can download and upload it on wherever u want (Example: personally on my university forum).
+
 So, go on and help me with it!
