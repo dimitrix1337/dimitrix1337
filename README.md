@@ -1,1 +1,1 @@
-Learning Solidity smart contracts programming, Ethereum technology, Node and Python.
+Ethereum blockchain developer.
